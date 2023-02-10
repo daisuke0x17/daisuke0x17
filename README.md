@@ -12,10 +12,10 @@
 <img src="https://skillicons.dev/icons?i=go,typescript,graphql,react,aws,docker&theme=light" />
 
 <h2>Skills</h2>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,python,ruby&theme=light" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,python,ruby,git&theme=light" />
 
 <h2>Tools</h2>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=light" />
+<img src="https://skillicons.dev/icons?i=github,vscode,postman&theme=light" />
 
 <h2>Last Updated</h2>
 :date:2022/02/10
