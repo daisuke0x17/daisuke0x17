@@ -17,5 +17,5 @@
 <h2>Tools</h2>
 <img src="https://skillicons.dev/icons?i=github,vscode,postman&theme=light" />
 
-<h2>Lastest Updated</h2>
+<h2>Lastest Update</h2>
 :date:2022/02/10
