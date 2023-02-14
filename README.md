@@ -9,7 +9,7 @@
 </table>
 
 <h2>Currently learning</h2>
-<img src="https://skillicons.dev/icons?i=go,typescript,graphql,react,aws,docker&theme=light" />
+<img src="https://skillicons.dev/icons?i=go,typescript,nest,graphql,react,aws,docker&theme=light" />
 
 <h2>Skills</h2>
 <img src="https://skillicons.dev/icons?i=html,css,javascript,python,ruby,git&theme=light" />
