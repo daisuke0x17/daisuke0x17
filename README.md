@@ -8,7 +8,7 @@
   </tr>
 </table>
 
-<h2>Currently learning</h2>
+<h2>Learning</h2>
 <img src="https://skillicons.dev/icons?i=go,typescript,nest,graphql,react,aws,docker&theme=light" />
 
 <h2>Skills</h2>
