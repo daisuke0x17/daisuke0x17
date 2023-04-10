@@ -1,4 +1,4 @@
-# Hi, I'm [@daisuke23bubu](https://loquacious-souffle-8ee1dc.netlify.app/) 👋
+# Hi, I'm [@daisuke23bubu](https://twitter.com/daisuke0x17) 👋
 :mortar_board: I'm a first year master's student studying computer science.  
 🔭 I'm doing research on cloud computing.
 <table>
@@ -9,10 +9,10 @@
 </table>
 
 <h2>Learning</h2>
-<img src="https://skillicons.dev/icons?i=go,typescript,nest,graphql,react,aws,docker&theme=light" />
+<img src="https://skillicons.dev/icons?i=go,nest,graphql,aws&theme=light" />
 
 <h2>Skills</h2>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,python,ruby,git&theme=light" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,ruby,git,docker&theme=light" />
 
 <h2>Tools</h2>
 <img src="https://skillicons.dev/icons?i=github,vscode,postman,discord&theme=light" />
