@@ -1,4 +1,4 @@
-# Hi, I'm [@daisuke23bubu](https://twitter.com/daisuke0x17) 👋
+# Hi, I'm [@daisuke23bubu](https://daisuke23.net) 👋
 :mortar_board: I'm a second year master's student studying computer science.  
 🔭 I'm doing research on cloud computing.
 <table>
