@@ -1,4 +1,4 @@
-# Hi, I'm [@daisuke23bubu](https://daisuke23.net) 👋
+# Hi, I'm [@daisuke23](https://daisuke23.net) 👋
 :mortar_board: I'm a second year master's student studying computer science.  
 🔭 I'm doing research on cloud computing.
 <table>
@@ -8,14 +8,45 @@
   </tr>
 </table>
 
-<h2>Learning</h2>
-<img src="https://skillicons.dev/icons?i=go,nest,graphql,aws&theme=light" />
-
 <h2>Skills</h2>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,ruby,git,docker&theme=light" />
-
-<h2>Tools</h2>
-<img src="https://skillicons.dev/icons?i=github,vscode,postman,discord&theme=light" />
+<table>
+  <thead>
+    <tr>
+      <th width="500px">Frontend</th>
+      <th width="500px">Backend</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr width="600px">
+    <td>
+      <!-- Frontend -->
+      <img src="https://skillicons.dev/icons?i=html,css,javascript&theme=light" />
+    </td>
+    <td>
+      <!-- Backend -->
+      <img src="https://skillicons.dev/icons?i=go,typescript,python,ruby,nest,graphql,mysql,redis&theme=light" />
+    </td>
+  </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th width="500px">DevOps</th>
+      <th width="500px">Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr width="600px">
+    <td>
+      <!-- DevOps -->
+      <img src="https://skillicons.dev/icons?i=git,githubactions,docker,aws&theme=light" />
+    </td>
+    <td>
+      <!-- Tools -->
+      <img src="https://skillicons.dev/icons?i=github,vscode,postman,discord&theme=light" />
+    </td>
+  </tr>
+  </tbody>
+</table>
 
 <h2>Latest Update</h2>
-:date:2023/07/29
+:date: 2023/10/29
