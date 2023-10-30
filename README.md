@@ -18,13 +18,13 @@
   </thead>
   <tbody>
   <tr width="600px">
-    <td>
+    <td align="center">
       <!-- Frontend -->
       <img src="https://skillicons.dev/icons?i=html,css,javascript&theme=light" />
     </td>
-    <td>
+    <td align="center">
       <!-- Backend -->
-      <img src="https://skillicons.dev/icons?i=go,typescript,python,ruby,nest,graphql,mysql,redis&theme=light" />
+      <img src="https://skillicons.dev/icons?i=go,typescript,python,ruby,nest,graphql,mysql,redis&theme=light&perline=4" />
     </td>
   </tr>
   </tbody>
@@ -36,11 +36,11 @@
   </thead>
   <tbody>
   <tr width="600px">
-    <td>
+    <td align="center">
       <!-- DevOps -->
-      <img src="https://skillicons.dev/icons?i=git,githubactions,docker,aws&theme=light" />
+      <img src="https://skillicons.dev/icons?i=git,githubactions,aws,docker&theme=light" />
     </td>
-    <td>
+    <td align="center">
       <!-- Tools -->
       <img src="https://skillicons.dev/icons?i=github,vscode,postman,discord&theme=light" />
     </td>
