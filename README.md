@@ -38,7 +38,7 @@
   <tr width="600px">
     <td align="center">
       <!-- DevOps -->
-      <img src="https://skillicons.dev/icons?i=git,githubactions,aws,docker&theme=light" />
+      <img src="https://skillicons.dev/icons?i=git,githubactions,aws,docker,kubernetes&theme=light&perline=3" />
     </td>
     <td align="center">
       <!-- Tools -->
