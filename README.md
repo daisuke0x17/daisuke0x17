@@ -6,6 +6,9 @@
 🔭 Interested in growing business through technology<br />
 🏊‍♂️ Love swimming, scuba diving, motorcycle, and camping
 
+## Links
+- [Zenn](https://zenn.dev/daisuke23)
+
 ## Skills
 <img src="https://skillicons.dev/icons?i=aws,discord,docker,gcp,git,github,githubactions,go,grafana,graphql,kubernetes,mysql,nestjs,javascript,notion,postgres,postman,python,redis,terraform,typescript,vscode&theme=light&perline=8" /> 
 
