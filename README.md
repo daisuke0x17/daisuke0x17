@@ -1,15 +1,18 @@
-# Hi, I'm [@daisuke23](https://daisuke23.net) 👋
-🧑‍💻 I'm a Backend Engineer.<br />
-🔭 Interested in growing the business through technology.
-<table>
-  <tr>
-    <td>Total visitors</td>
-    <td><img src="https://profile-counter.glitch.me/daisuke23bubu/count.svg" alt="" /></td>
-  </tr>
-</table>
+# Hi, I'm @daisuke23 👋
+*a.k.a katayan*
 
-<h2>Skills</h2>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,go,typescript,python,ruby,nest,graphql,mysql,redis,git,githubactions,aws,docker,kubernetes,github,vscode,postman,discord&theme=light&perline=5" /> 
+🧑‍💻 Backend Engineer at CyberAgent, Inc.<br />
+🎓 Master's in Computer Science from Doshisha University<br />
+🔭 Interested in growing business through technology<br />
+🏊‍♂️ Love swimming, scuba diving, motorcycle, and camping
 
-<h2>Latest Update</h2>
-:date: 2024/04/07
+## Skills
+<img src="https://skillicons.dev/icons?i=aws,discord,docker,gcp,git,github,githubactions,go,grafana,graphql,kubernetes,mysql,nestjs,javascript,notion,postgres,postman,python,redis,terraform,typescript,vscode&theme=light&perline=8" /> 
+
+## Experience
+- CyberAgent: Backend Engineer (2024.04 - ) | Go, k8s, GCP
+- Gemcook: Backend Engineer Intern (2022.10 - 2023.10) | TypeScript, Go, GraphQL, AWS
+- Life is Tech: Coding Mentor (2022.04 - 2024.03) | Ruby, JavaScript
+
+## Latest Update
+:date: 2025/07/12
