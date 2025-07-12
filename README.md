@@ -8,6 +8,7 @@
 
 ## Links
 - [Zenn](https://zenn.dev/daisuke23)
+- [Speaker Deck](https://speakerdeck.com/daisuke0x17)
 
 ## Skills
 <img src="https://skillicons.dev/icons?i=aws,discord,docker,gcp,git,github,githubactions,go,grafana,graphql,kubernetes,mysql,nestjs,javascript,notion,postgres,postman,python,redis,terraform,typescript,vscode&theme=light&perline=8" /> 
