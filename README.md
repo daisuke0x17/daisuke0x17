@@ -1,5 +1,4 @@
-# Hi, I'm @daisuke0ｘ17 👋
-*a.k.a katayan*
+# Hi, I'm Katayan 👋
 
 🧑‍💻 Backend Engineer at CyberAgent, Inc.<br />
 🎓 Master's in Computer Science from Doshisha University<br />
